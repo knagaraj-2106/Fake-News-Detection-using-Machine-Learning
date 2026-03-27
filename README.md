@@ -112,7 +112,7 @@ Prediction System
 1. Clone the repository:
 
 ```
-git clone https://github.com/k-nagaraj2106/fake-news-detection.git
+https://github.com/k-nagaraj2106
 ```
 
 2. Navigate to project folder:
