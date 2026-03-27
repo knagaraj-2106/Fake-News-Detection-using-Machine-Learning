@@ -112,7 +112,7 @@ Prediction System
 1. Clone the repository:
 
 ```
-https://github.com/k-nagaraj2106
+https://github.com/knagaraj-2106
 ```
 
 2. Navigate to project folder:
